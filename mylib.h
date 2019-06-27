@@ -7,7 +7,7 @@
 
 #include "config.h"
 
-#define bool MESSAGES = true;
+bool MESSAGES = true;
 
 void initialize_comand_line(char *comand_line, int size, char *str_arq){    
     comand_line[0] = 'g';

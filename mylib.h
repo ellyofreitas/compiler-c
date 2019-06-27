@@ -5,8 +5,6 @@
 #include<stdlib.h>
 #include<stdbool.h>
 
-#include "config.h"
-
 bool MESSAGES = true;
 
 void initialize_comand_line(char *comand_line, int size, char *str_arq){    
